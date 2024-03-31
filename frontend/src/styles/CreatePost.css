@@ -1,0 +1,22 @@
+/* checkbox */
+.fromControlLabel__checkbox {
+  padding-top: 1rem;
+}
+
+/* modal box */
+.modal__box.css-1gkse3u {
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  padding: 0px;
+}
+
+/* Icons */
+.css-7v0m6e:hover {
+  transform: scale(0.95);
+} 
+
+/* form */
+.box__form {
+  padding: 32px;
+}

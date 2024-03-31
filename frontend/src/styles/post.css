@@ -1,0 +1,71 @@
+/* .btn-primary {
+    border: 2px solid #fff;
+    background-color: rgba(0, 0, 0, 0.0);
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+} */
+
+/* .btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.open>.dropdown-toggle.btn-primary {
+    color: #6699cc;
+    background-color: #fff;
+    border: 2px solid #fff;
+} */
+
+.create-post {
+    padding-top: 0.3rem;
+}
+
+.form-control {
+    resize: none;
+}
+
+.post-btn-image {
+    padding-top: 4px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#post-left-btn {
+    float: left;
+}
+
+#post-right-image {
+    float: right;
+    width: auto;
+}
+
+#col-md-4-id{
+    overflow: scroll;
+    width: auto;
+}
+
+#col-md-4-id::-webkit-scrollbar {
+    display: none;
+}
+
+#profile-img-id {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: 5px;
+}
+
+.uploaded-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 5px;
+}
+
+.loading-images{
+    color: white;
+}
+
+.spinner-border{
+    margin: 1rem;
+}

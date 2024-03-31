@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;500;900&family=Poppins:wght@400;600&display=swap');
+
+
+* {
+    font-family: 'Lexend', sans-serif;
+}
+
+/* #col-md-10-id {
+    padding: 0%;
+    width: auto;
+    width: 100%;
+} */
+
+.time {
+    font-size: 9px !important
+}
+
+.socials i {
+    margin-right: 1px;
+    font-size: 17px;
+    color: #d2c8c8;
+    cursor: pointer;
+}
+
+.feed-image img {
+    width: 100%;
+    height: auto;
+}
+
+
+.home {
+    background-color: #FEFAE0;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.description {
+    font-weight: 10px;
+    padding: 10px;
+}

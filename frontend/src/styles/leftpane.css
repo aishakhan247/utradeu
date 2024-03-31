@@ -1,0 +1,27 @@
+
+  #sidebarMenu {
+    position: fixed;
+    top: 100px;
+    bottom: 0;
+    left: 0;
+    /* padding: 30px 0 0;  */
+    width: 300px;
+    /* z-index: 600; */
+    background-color: #CCD5AE;
+  }
+  
+.list-group-item {
+  align-items: center;
+  background-color: #CCD5AE;
+  color:#7e7f96;
+  
+}
+
+.list-group-item:hover {
+  background-color: #D4A373;
+  color: white;
+}
+
+  
+
+  

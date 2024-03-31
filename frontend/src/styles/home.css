@@ -1,0 +1,17 @@
+.home {
+    display: grid;
+    grid-template-columns: 3fr 6fr 3fr;
+    grid-gap: 0.2rem;
+}
+
+.column-1 {
+    grid-column: 1;
+}
+
+.column-2 {
+    grid-column: 2;
+}
+
+.column-3 {
+    grid-column: 3;
+}

@@ -1,0 +1,8 @@
+body {
+    background: -webkit-linear-gradient(left, #3f0d12 0%, #a71d31 74%);
+}
+
+.pb-1 {
+    padding-bottom: 2rem !important;
+}
+

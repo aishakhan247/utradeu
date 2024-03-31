@@ -1,0 +1,40 @@
+.ql-editor {
+    white-space: unset !important;
+  }
+
+  .ce-wrapper {
+    margin-top: 50px;
+  }
+
+
+  #new-chat-plus-button {
+    background-color: #D4A373 !important;
+
+  }
+
+  .ce-chat-unread-dot {
+    background-color: #848c74 !important;
+  }
+
+  .ce-chat-title-text {
+    color: #38393d !important;
+  }
+
+  .ce-chat-subtitle-text {
+    color: #D4A373 !important;
+  }
+
+  #ce-send-message-button {
+    background-color: #D4A373 !important;
+    
+  }
+
+  .ce-chat-title {
+    /* background-color: #FEFAE0 !important; */
+  }
+
+  .ce-settings {
+    /* background-color: #FEFAE0  !important; */
+    
+  }
+ 
